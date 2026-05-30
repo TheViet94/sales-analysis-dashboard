@@ -3,7 +3,7 @@ data/raw/sales.csv
 data/processed/sales.csv
 data/mart/fact_sales.csv
 
-# Large Power BI files
+# Large Power BI file
 powerbi/*.pbix
 
 # System files
