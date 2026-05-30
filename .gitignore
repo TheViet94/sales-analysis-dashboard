@@ -1,0 +1,17 @@
+# Large data files
+data/raw/sales.csv
+data/processed/sales.csv
+data/mart/fact_sales.csv
+
+# Large Power BI files
+powerbi/*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+*.zip
+*.rar
