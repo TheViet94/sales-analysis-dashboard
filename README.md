@@ -18,19 +18,19 @@ The final dashboard helps support business decisions related to revenue monitori
 
 This project focuses on five main business analysis scenarios:
 
-1. **Revenue Trend Analysis**  
+1. **Revenue Trend **  
    Analyze actual revenue performance over time and identify monthly growth or decline patterns.
 
-2. **Product Performance Analysis**  
+2. **Product Performance **  
    Rank products by revenue, identify best-selling and underperforming products, and evaluate product class performance.
 
-3. **Customer Behavior & Segmentation**  
+3. **Customer Segmentation**  
    Segment customers based on purchase frequency and spending value, analyze repeat customers, AOV, and basket size.
 
-4. **Salesperson Performance Analysis**  
+4. **Salesperson Leaderboard**  
    Evaluate salesperson revenue contribution, identify top performers and underperformers, and track performance trends over time.
 
-5. **Geographic Revenue Analysis**  
+5. **Geographic Distributio**  
    Analyze revenue, order volume, customer distribution, and market performance by city and country.
 
 ---
@@ -316,7 +316,7 @@ The full Power BI `.pbix` file is not included directly in this repository becau
 
 You can access the full Power BI dashboard file here:
 
-[Download Power BI Dashboard](https://drive.google.com/file/d/10QLOxaY0gF8XAnUtbF-vJFSCcyeWDD_g/view?usp=sharing)
+[Download Power BI Dashboard](https://drive.google.com/file/d/15-GOytCaRdcQLPOf6vSSTx_NCTkLcNRF/view?usp=sharing)
 
 ---
 
